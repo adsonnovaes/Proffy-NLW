@@ -1,6 +1,9 @@
 /node_modules
 /.pnp
 .pnp.js
+/src/database/database.sqlite
+/src/database/temp.js
+/src/database/test.js
 
 # testing
 /coverage
